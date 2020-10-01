@@ -1,7 +1,7 @@
 Fork this repo after adding name and handle and raise a Pull Request
 A invite mail will be sent to you.
 
-ADD YOUR NAME(Github handle) below-:
+ADD YOUR NAME(Github handle) below:-
 
 - Akshita Gupta (akshitagupta15june)
 - Jishnu Suresh (lonebots)
@@ -11,3 +11,4 @@ ADD YOUR NAME(Github handle) below-:
 - Khushi Saxena(khushi0302001)
 - Sameer (3l-d1abl0)
 - Shubham Nakawe (Shubhamnakawe)
+- Suresh prabhu(srlwy)
